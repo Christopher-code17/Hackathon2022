@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nilssen Chinchilla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nilssen Chinchilla\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.exe
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.deps.json
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.runtimeconfig.json
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.runtimeconfig.dev.json
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.dll
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\bin\Debug\netcoreapp3.1\SumadoraFactorial.pdb
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.csproj.AssemblyReference.cache
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.AssemblyInfoInputs.cache
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.AssemblyInfo.cs
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.dll
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.pdb
+C:\Users\Nilssen Chinchilla\source\repos\SumadoraFactorial\SumadoraFactorial\obj\Debug\netcoreapp3.1\SumadoraFactorial.genruntimeconfig.cache
